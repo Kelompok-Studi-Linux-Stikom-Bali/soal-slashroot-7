@@ -1,2 +1,2 @@
-# soal-slashroot-8
-Repository soal Slashroot 8
+# soal-slashroot-7
+Repository soal Slashroot 7
