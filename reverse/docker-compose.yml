@@ -21,14 +21,3 @@ services:
       - "./dragons_lair:/home/app"
     ports:
       - "2022:8000"
-
-  # binary3:
-  #   build:
-  #     context: .
-  #   image: reverse
-  #   container_name: slashroot6-hello
-  #   entrypoint: socat tcp-listen:8000,reuseaddr,fork exec:/home/app/chall
-  #   volumes:
-  #     - "./hello:/home/app"
-  #   ports:
-  #     - "2023:8000"
