@@ -1,6 +1,6 @@
 # <img src="images/logo.png" height="50"> SlashRoot 7 2023 (Jeopardy) - Problemset
 
-SlashRoot is an annual national cyber security competition in Indonesia organized by the Student Activity Unit Linux Study Group, Institute of Technology and Business STIKOM Bali.
+SlashRoot is an annual national cyber security competition in Indonesia organized by the Linux Study Group Student Activity Unit, Institute of Technology and Business STIKOM Bali.
 
 This repository contains the problemset for SlashRoot 7 2023.
 
