@@ -16,6 +16,8 @@ This repository contains the problemset for SlashRoot 7 2023.
 | [3 per 4](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/penyisihan/forensics/3%20per%204) | Forensic | Krisna |
 | [Bad Radio](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/penyisihan/forensics/bad-radio) | Forensic | Hari |
 | [Kode Rahasia](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/penyisihan/OSINT/kode_rahasia) | OSINT | Indra Yana |
+| [Waka Waka eh eh](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/penyisihan/OSINT/waka_waka_eh_eh) | OSINT | Indra Yana |
+| [Anabul](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/penyisihan/OSINT/anabul) | OSINT | Wrinda |
 
 ## List of Problems Final
 
