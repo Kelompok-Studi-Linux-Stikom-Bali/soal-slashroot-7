@@ -21,6 +21,8 @@ This repository contains the problemset for SlashRoot 7 2023.
 | Coming soon... | Crypto | [Indra](https://github.com/MockingjayIndra) |
 | Coming soon... | PWN | [Ibnu](https://github.com/ibnudz) |
 | Coming soon... | Joy | [Ekajaya](https://github.com/ekajaya740) |
+| Coming soon... | Coming soon... | [Riyan](https://github.com/riyanpradana21) |
+| Coming soon... | Coming soon... | [Adi](https://github.com/adi-winters) |
 
 ## List of Problems Final
 
