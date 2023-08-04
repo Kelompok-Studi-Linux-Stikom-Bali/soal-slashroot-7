@@ -18,9 +18,9 @@ This repository contains the problemset for SlashRoot 7 2023.
 | [Kode Rahasia](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/penyisihan/OSINT/kode_rahasia) | OSINT | [Indra Yana](https://github.com/indrayyana) |
 | [Waka Waka eh eh](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/penyisihan/OSINT/waka_waka_eh_eh) | OSINT | [Indra Yana](https://github.com/indrayyana) |
 | [Anabul](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/penyisihan/OSINT/anabul) | OSINT | [Wrinda](https://github.com/WrindaWaneswari) |
-| [Coming soon...](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/penyisihan/crypto/) | Crypto | [Indra](https://github.com/MockingjayIndra) |
-| [Coming soon...](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/penyisihan/PWN/) | PWN | [Ibnu](https://github.com/ibnudz) |
-| [Coming soon...](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/penyisihan/PWN/) | Joy | [Ekajaya](https://github.com/ekajaya740) |
+| Coming soon... | Crypto | [Indra](https://github.com/MockingjayIndra) |
+| Coming soon... | PWN | [Ibnu](https://github.com/ibnudz) |
+| Coming soon... | Joy | [Ekajaya](https://github.com/ekajaya740) |
 
 ## List of Problems Final
 
