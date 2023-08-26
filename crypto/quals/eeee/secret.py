@@ -1,0 +1,1 @@
+flag = "slashroot7{meh_this_is_just_an_ez_crypto_wahahaha_welcome}"

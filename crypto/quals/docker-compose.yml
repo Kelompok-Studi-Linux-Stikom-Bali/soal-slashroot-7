@@ -1,0 +1,23 @@
+version: '3.8'
+services:
+  summary:
+    build:
+      context: .
+    image: crypto
+    container_name: slashroot7-summary
+    entrypoint: socat tcp-listen:8000,reuseaddr,fork exec:/home/app/chall.py
+    volumes:
+      - './summary:/home/app'
+    ports:
+      - '1011:8000'
+
+  eeee:
+    build:
+      context: .
+    image: crypto
+    container_name: slashroot7-eeee
+    entrypoint: socat tcp-listen:8000,reuseaddr,fork exec:/home/app/chall.py
+    volumes:
+      - './eeee:/home/app'
+    ports:
+      - '1021:8000'
