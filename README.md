@@ -10,6 +10,7 @@ This repository contains the problemset for SlashRoot 7 2023.
 | -------------------------------------------------------------------------------------------------------------------------------------- | -------------- | -------------------------------------------- |
 | [`Simple Login`](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/penyisihan/web/simple-login)           | Web            | [Ananta](https://github.com/AnantaWeda)      |
 | [`Give Me Feedback`](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/penyisihan/web/give-me-feedback)   | Web            | [Ananta](https://github.com/AnantaWeda)      |
+| [`Asem`](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/penyisihan/reverse/asem)                     | Reverse        | [Indra Yana](https://github.com/indrayyana)  |
 | [`Sanca`](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/penyisihan/reverse/sanca)                     | Reverse        | [Indra Yana](https://github.com/indrayyana)  |
 | [`Lazy`](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/penyisihan/reverse/lazy)                       | Reverse        | [Indra Yana](https://github.com/indrayyana)  |
 | [`Dragon's Lair`](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/penyisihan/reverse/dragons_lair)      | Reverse        | [Indra Yana](https://github.com/indrayyana)  |
