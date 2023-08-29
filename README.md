@@ -21,14 +21,14 @@ This repository contains the problemset for SlashRoot 7 2023.
 | [`Anabul`](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/penyisihan/OSINT/anabul)                     | OSINT          | [Wrinda](https://github.com/WrindaWaneswari) |
 | [`Nostalgia Child`](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/penyisihan/OSINT/nostalgia_child)                                                                                                                         | OSINT | [Riyan](https://github.com/riyanpradana21)   |
 | [`eeee`](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/penyisihan/crypto/eeee)                                                                                                                         | Crypto         | [MockingJay](https://github.com/MockingjayIndra)  |
-| [`summary`](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/penyisihan/crypto/summary)                                                                                                                         | Crypto         | [MockingJay](https://github.com/MockingjayIndra)  |
-| [`x1rt4m`](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/penyisihan/crypto/x1rt4m)                                                                                                                         | Crypto         | [MockingJay](https://github.com/MockingjayIndra)  |
+| [`Summary`](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/penyisihan/crypto/summary)                                                                                                                         | Crypto         | [MockingJay](https://github.com/MockingjayIndra)  |
+| [`X1rt4m`](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/penyisihan/crypto/x1rt4m)                                                                                                                         | Crypto         | [MockingJay](https://github.com/MockingjayIndra)  |
 | `Coming soon...`                                                                                                                         | PWN            | [Ibnu](https://github.com/ibnudz)            |
 | [`Galaxy Ikan Bilis`](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/penyisihan/JOY/Galaxy-Ikan-Bilis) | Joy            | [Ekajaya](https://github.com/ekajaya740)     |
 | `Coming soon...`                                                                                                                         | Coming soon... | [Adi](https://github.com/adi-winters)        |
 
 ## List of Problems Final
 
-| Name | Category       | Problem Setter |
-| ---- | -------------- | -------------- |
-|      | Coming Soon... |                |
+| Name                                                                                                                                   | Category       | Problem Setter                               |
+| -------------------------------------------------------------------------------------------------------------------------------------- | -------------- | -------------------------------------------- |
+| [`CryptoRev`](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/final/reverse/cryptoRev)                     | Reverse        | [Indra Yana](https://github.com/indrayyana)  |
