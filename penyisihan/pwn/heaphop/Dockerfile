@@ -4,4 +4,4 @@ RUN apt-get update && apt-get install -y xinetd && apt-get clean && rm -rf /var/
 RUN useradd -U -m heaphop && mkdir -p /home/heaphop
 RUN chown -R root:heaphop /home/heaphop && chmod 750 /home/heaphop
 
-CMD CMD /usr/bin/startchall
+CMD /usr/bin/startchall
