@@ -1,0 +1,15 @@
+version: '2'
+services:
+  heaphop:
+    image: heaphop
+    build: .
+    restart: always
+    environment:
+      - TERM=xterm
+    ports:
+      - '30204:30204'
+    volumes:
+      - ./chall:/home/heaphop/vuln:ro
+      - ./flag.txt:/home/heaphop/flag.txt:ro
+      - ./xinetd:/etc/xinetd.d/heaphop:ro
+      - ./startchall.sh:/usr/bin/startchall:ro

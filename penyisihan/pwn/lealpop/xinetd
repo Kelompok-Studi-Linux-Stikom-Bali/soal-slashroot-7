@@ -1,0 +1,14 @@
+service lealpop
+{
+	disable = no
+	socket_type = stream
+	protocol = tcp
+	wait = no
+	user = lealpop
+	type = UNLISTED
+	port = 30205
+	bind = 0.0.0.0
+	server = /home/lealpop/vuln
+	per_source = 10
+	rlimit_cpu = 20
+}

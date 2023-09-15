@@ -1,0 +1,14 @@
+service heaphop 
+{
+	disable = no
+  	socket_type = stream
+  	protocol = tcp
+  	wait = no
+  	user = heaphop
+  	type = UNLISTED
+  	port = 30204
+  	bind = 0.0.0.0
+  	server = /home/heaphop/vuln
+  	per_source = 10
+  	rlimit_cpu = 20
+}

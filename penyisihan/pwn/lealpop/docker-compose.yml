@@ -1,0 +1,15 @@
+version: '2'
+services:
+  lealpop:
+    image: lealpop
+    build: .
+    restart: always
+    environment:
+      - TERM=xterm
+    ports:
+      - "30205:30205"
+    volumes:
+      - ./vuln:/home/lealpop/vuln:ro
+      - ./flag.txt:/home/lealpop/flag.txt:ro
+      - ./xinetd:/etc/xinetd.d/lealpop:ro
+      - ./startchall.sh:/usr/bin/startchall:ro
