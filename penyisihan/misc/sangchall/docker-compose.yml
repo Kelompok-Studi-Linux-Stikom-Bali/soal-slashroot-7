@@ -1,0 +1,10 @@
+version: '2'
+services:
+  sangchall:
+    image: sangchall
+    build: .
+    restart: always
+    environment:
+      - TERM=xterm
+    ports:
+      - "30201:1337"
