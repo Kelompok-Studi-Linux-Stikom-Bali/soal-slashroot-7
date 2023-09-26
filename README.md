@@ -30,8 +30,22 @@ This repository contains the problemset for SlashRoot 7 2023.
 | [`Galaxy Ikan Bilis`](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/penyisihan/JOY/Galaxy-Ikan-Bilis) | Joy            | [Ekajaya](https://github.com/ekajaya740)     |
 | `Coming soon...`                                                                                                                         | Coming soon... | [Adi](https://github.com/adi-winters)        |
 
+## List Port Quals
+| Name   	          | Category       | Port     | Url         |
+| --------------------| -------------- | -------- | ----------- |
+| [`Summary`](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/penyisihan/crypto/summary) | Crypto | 1011 | `nc 103.152.242.228 1011` |
+| [`eeee`](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/penyisihan/crypto/eeee) | Crypto | 1021 | `nc 103.152.242.228 1021` |
+| [`Lazy`](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/penyisihan/reverse/lazy) | Reverse | 2021 | `nc 103.152.242.228 2021` |
+| [`Dragon's Lair`](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/penyisihan/reverse/dragons_lair) | Reverse | 2022 | `nc 103.152.242.228 2022` |
+| [`Mass Sender`](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/penyisihan/pwn/sender) | PWN  | 30011 | `nc 103.152.242.228 30011` |
+| [`Don't Forget Saved`](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/penyisihan/pwn/saved) | PWN  | 30012 | `nc 103.152.242.228 30012` |
+| [`sheep`](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/penyisihan/pwn/sheep) | PWN  | 30013 | `nc 103.152.242.228 30013` |
+| [`sandbox`](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/penyisihan/pwn/sandbox) | PWN  | 30014 | `nc 103.152.242.228 30014` |
+
 ## List of Problems Final
 
 | Name                                                                                                                                   | Category       | Problem Setter                               |
 | -------------------------------------------------------------------------------------------------------------------------------------- | -------------- | -------------------------------------------- |
 | [`CryptoRev`](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/final/reverse/cryptoRev)                     | Reverse        | [Indra Yana](https://github.com/indrayyana)  |
+
+
