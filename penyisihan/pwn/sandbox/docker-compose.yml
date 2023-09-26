@@ -1,0 +1,11 @@
+version: '2'
+services:
+  sandbox:
+    image: sandbox
+    build: .
+    restart: always
+    environment:
+      - TERM=xterm
+    ports:
+      - '30014:5000'
+    privileged: true

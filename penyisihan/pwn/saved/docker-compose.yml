@@ -1,0 +1,10 @@
+version: '2'
+services:
+  saved:
+    image: saved
+    build: .
+    restart: always
+    environment:
+      - TERM=xterm
+    ports:
+      - '30012:1337'
