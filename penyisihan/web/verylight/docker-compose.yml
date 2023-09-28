@@ -1,0 +1,10 @@
+version: '2'
+services:
+  verylight:
+    image: verylight
+    build: .
+    restart: always
+    environment:
+      - TERM=xterm
+    ports:
+      - "20011:1337"
