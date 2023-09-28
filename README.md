@@ -43,7 +43,7 @@ This repository contains the problemset for SlashRoot 7 2023.
 | [`Don't Forget Saved`](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/penyisihan/pwn/saved) | PWN  | 30012 | `nc 103.152.242.228 30012` |
 | [`sheep`](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/penyisihan/pwn/sheep) | PWN  | 30013 | `nc 103.152.242.228 30013` |
 | [`sandbox`](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/penyisihan/pwn/sandbox) | PWN  | 30014 | `nc 103.152.242.228 30014` |
-| [`Verylight`](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/penyisihan/web/verylight) | Web | 20012 | `http://103.152.242.228:20011` |
+| [`Verylight`](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/penyisihan/web/verylight) | Web | 20011 | `http://103.152.242.228:20011` |
 | [`LotFeTT`](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/penyisihan/web/lotfett) | Web | 20012 | `http://103.152.242.228:20012` |
 
 ## List of Problems Final
