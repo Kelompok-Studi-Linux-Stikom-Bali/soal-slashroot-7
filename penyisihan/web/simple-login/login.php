@@ -9,7 +9,7 @@ $password = $_POST['password'];
 
 $query = $connect->query("SELECT * from user where username = '$username' and password = '$password'");
 if($query->num_rows){
-    $_SESSION["flag"] = 'CTF{y0u_g0t_me}';
+    $_SESSION["flag"] = 'slashroot7{s1mpl3_sql_1nj3cti0n}';
     header('Location: index.php');
     die();
 }

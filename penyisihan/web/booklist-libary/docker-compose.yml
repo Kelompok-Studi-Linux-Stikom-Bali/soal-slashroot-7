@@ -1,0 +1,8 @@
+version: '1'
+services:
+  book_libary:
+    image: book_libary
+    build: .
+    restart: always
+    ports:
+      - "20013:5000"

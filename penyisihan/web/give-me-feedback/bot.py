@@ -8,7 +8,7 @@ asyncio.set_event_loop(loop)
 value = sys.argv
 
 async def main():
-    cookies = {'name': 'flag','value': 'CTF{y0u_g0t_me}'}
+    cookies = {'name': 'flag','value': 'slashroot7{y0u_g0t_me}'}
 
     browser = await launch()
     page = await browser.newPage()
