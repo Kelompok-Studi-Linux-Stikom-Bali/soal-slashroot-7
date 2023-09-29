@@ -1,0 +1,25 @@
+bitflip :
+{username=aaaaaa
+aaaaaamember356;
+get_kupon=0;is_m
+ember=1}88888888
+
+Cut and paste :
+
+{"pesan": "aaaaa
+", "golongan": "
+malam", "produk"
+: "biora", "rati
+ng": 5}aaaaaaaaa
+
+{"pesan": "aaaaa
+subuh", "golonga
+n": "malam", "pr
+oduk": "biora", 
+"rating": 5}aaaa
+
+{"pesan": "aaaaa
+", "golongan": "
+subuh", "produk"
+: "biora", "rati
+ng": 5}aaaaaaaaa

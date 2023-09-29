@@ -21,3 +21,14 @@ services:
       - './eeee:/home/app'
     ports:
       - '1021:8000'
+
+  aestethic:
+    build:
+      context: .
+    image: crypto
+    container_name: slashroot7-aestethic
+    entrypoint: socat tcp-listen:8000,reuseaddr,fork exec:/home/app/chall.py
+    volumes:
+      - './aestethic:/home/app'
+    ports:
+      - '1031:8000'
