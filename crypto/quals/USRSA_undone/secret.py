@@ -1,1 +1,0 @@
-flag = b'slashroot7{ez_pz_lemon_sqzy_RS4_Ch4ll}'
