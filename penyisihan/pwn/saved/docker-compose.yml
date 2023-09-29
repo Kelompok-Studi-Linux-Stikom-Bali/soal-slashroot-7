@@ -1,8 +1,9 @@
 version: '2'
 services:
   saved:
-    image: saved
+    image: pwn
     build: .
+    container_name: saved
     restart: always
     environment:
       - TERM=xterm

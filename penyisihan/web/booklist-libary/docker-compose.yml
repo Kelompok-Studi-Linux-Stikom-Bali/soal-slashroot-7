@@ -1,8 +1,9 @@
 version: '1'
 services:
   book_libary:
-    image: book_libary
+    image: web
     build: .
+    container_name: book_library
     restart: always
     ports:
       - "20013:5000"

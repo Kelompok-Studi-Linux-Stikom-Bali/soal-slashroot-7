@@ -1,8 +1,9 @@
 version: '2'
 services:
   sender:
-    image: sender
+    image: pwn
     build: .
+    container_name: sender
     restart: always
     environment:
       - TERM=xterm

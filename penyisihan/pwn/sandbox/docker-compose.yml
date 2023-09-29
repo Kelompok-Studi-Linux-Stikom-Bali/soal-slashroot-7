@@ -1,8 +1,9 @@
 version: '2'
 services:
   sandbox:
-    image: sandbox
+    image: pwn
     build: .
+    container_name: sandbox
     restart: always
     environment:
       - TERM=xterm

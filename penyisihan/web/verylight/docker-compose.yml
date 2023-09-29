@@ -1,8 +1,9 @@
 version: '2'
 services:
   verylight:
-    image: verylight
+    image: web
     build: .
+    container_name: verylight
     restart: always
     environment:
       - TERM=xterm

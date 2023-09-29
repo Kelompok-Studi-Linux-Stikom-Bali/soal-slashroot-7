@@ -1,8 +1,9 @@
 version: '2'
 services:
   sangchall:
-    image: sangchall
+    image: misc
     build: .
+    container_name: sangchall
     restart: always
     environment:
       - TERM=xterm
