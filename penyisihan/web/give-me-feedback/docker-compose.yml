@@ -1,0 +1,10 @@
+version: '1'
+name: 'give_feedback'
+services:
+  give_feedback:
+    container_name: give_feedback
+    restart: always
+    image: give_feedback
+    build: .
+    ports: 
+      - "20014:3000"
