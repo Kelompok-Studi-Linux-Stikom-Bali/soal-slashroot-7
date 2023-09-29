@@ -8,7 +8,7 @@ This repository contains the problemset for SlashRoot 7 2023.
 
 | Name                                                                                                                                   | Category       | Problem Setter                               |
 | -------------------------------------------------------------------------------------------------------------------------------------- | -------------- | -------------------------------------------- |
-| [`Simple Login`](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/penyisihan/web/simple-login)           | Web            | [Ananta](https://github.com/AnantaWeda)      |
+| [`Booklist Library`](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/penyisihan/web/booklist-libary)           | Web            | [Ananta](https://github.com/AnantaWeda)      |
 | [`Give Me Feedback`](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/penyisihan/web/give-me-feedback)   | Web            | [Ananta](https://github.com/AnantaWeda)      |
 | [`Verylight`](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/penyisihan/web/verylight)           | Web            | [Ibnu](https://github.com/ibnudz)      |
 | [`LotFeTT`](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/penyisihan/web/lotfett)           | Web            | [Ibnu](https://github.com/ibnudz)      |
@@ -47,6 +47,8 @@ This repository contains the problemset for SlashRoot 7 2023.
 | [`sandbox`](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/penyisihan/pwn/sandbox) | PWN  | 30014 | `nc 103.152.242.228 30014` |
 | [`Verylight`](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/penyisihan/web/verylight) | Web | 20011 | `http://103.152.242.228:20011` |
 | [`LotFeTT`](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/penyisihan/web/lotfett) | Web | 20012 | `http://103.152.242.228:20012` |
+| [`Booklist Library`](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/penyisihan/web/booklist-libary) | Web | 20013 | `http://103.152.242.228:20013` |
+| [`Give Me Feedback`](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/penyisihan/web/give-me-feedback) | Web | 20014 | `http://103.152.242.228:20014` |
 
 ## List of Problems Final
 
