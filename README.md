@@ -38,7 +38,7 @@ This repository contains the problemset for SlashRoot 7 2023.
 | --------------------| -------------- | -------- | ----------- |
 | [`Summary`](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/penyisihan/crypto/summary) | Crypto | 1011 | `nc 103.152.242.228 1011` |
 | [`eeee`](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/penyisihan/crypto/eeee) | Crypto | 1021 | `nc 103.152.242.228 1021` |
-| [`aestethic`](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/penyisihan/crypto/aestethic) | Crypto | 1021 | `nc 103.152.242.228 1031` |
+| [`aestethic`](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/penyisihan/crypto/aestethic) | Crypto | 1031 | `nc 103.152.242.228 1031` |
 | [`Lazy`](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/penyisihan/reverse/lazy) | Reverse | 2021 | `nc 103.152.242.228 2021` |
 | [`Dragon's Lair`](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/penyisihan/reverse/dragons_lair) | Reverse | 2022 | `nc 103.152.242.228 2022` |
 | [`Mass Sender`](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/penyisihan/pwn/sender) | PWN  | 30011 | `nc 103.152.242.228 30011` |
