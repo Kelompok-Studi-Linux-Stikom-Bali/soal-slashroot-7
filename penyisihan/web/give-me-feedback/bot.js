@@ -16,6 +16,6 @@ export const runBot = async(script) => {
     await page.setCookie(...cookies)
     await page.setContent(`<html><body>${script}</body></html>`);
 
-    await browser.close()
+    // await browser.close()
     
 }
