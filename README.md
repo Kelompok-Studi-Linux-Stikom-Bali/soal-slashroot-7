@@ -55,7 +55,8 @@ This repository contains the problemset for SlashRoot 7 2023.
 
 ## Points Recap Qualifier
 
-[Points Recap Qualifier Download](assets/files/Rekap_Point_Slashroot_CTF_Quals.xlsx)
+| [Points Recap Qualifier Download](assets/files/Rekap_Point_Slashroot_CTF_Quals.xlsx) |
+| ------------------------------------------------------------------------------------ |
 
 ## List of Problems Final
 
