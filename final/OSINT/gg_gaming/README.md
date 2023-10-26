@@ -1,8 +1,8 @@
 Chall name : <br>
-# GG Gaming <br>
+# GG Gaming 
 
 Desc : <br>
-Apakah anda tahu nama game yang menjadi referensi dari challenge `Dragon's Lair` ?
+Apakah anda tahu nama game yang menjadi referensi dari challenge `Dragon's Lair` ? <br>
 Flagnya disembunyikan didalam game tersebut.
 
 Mungkin ini bisa membantu :
