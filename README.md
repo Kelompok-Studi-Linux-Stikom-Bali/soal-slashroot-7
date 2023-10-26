@@ -62,5 +62,7 @@ This repository contains the problemset for SlashRoot 7 2023.
 
 | Name                                                                                                                    | Category       | Problem Setter                              |
 | ----------------------------------------------------------------------------------------------------------------------- | -------------- | ------------------------------------------- |
-| [`CryptoRev`](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/final/reverse/cryptoRev) | Reverse        | [Indra Yana](https://github.com/indrayyana) |
+| [`Cryver`](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/final/reverse/cryver) | Reverse        | [Indra Yana](https://github.com/indrayyana) |
+| [`Slash Card`](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/final/reverse/slash_card) | Reverse        | [Indra Yana](https://github.com/indrayyana) |
+| [`GG Gaming`](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/final/OSINT/gg_gaming) | OSINT        | [Indra Yana](https://github.com/indrayyana) |
 | `Coming soon...`                                                                                                        | Coming soon... | [Adi](https://github.com/adi-winters)       |
