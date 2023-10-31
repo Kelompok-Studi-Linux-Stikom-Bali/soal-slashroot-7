@@ -1,0 +1,23 @@
+version: '3'
+services:    
+  chall4:
+    image: complain-web
+    container_name: slashroot7-final-complain-web
+    restart: always
+    build: 
+      context: ./app
+    links: 
+      - mongo
+    ports: 
+      - 21204:21204
+
+  mongo:
+    image: mongo:4.4.6
+    command: mongod --port 27018
+    container_name: mongo-chall-final
+    restart: always
+    ports:
+      - 27018:27018
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: root
+      MONGO_INITDB_ROOT_PASSWORD: a4b53c60efc39e8dee2babae77d8d81351df545149db32fec48730a9f4c33d7f

@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <title>Welcome</title>
+</head>
+
+<body>
+    <a href="/logout" class="ms-3">logout</a>
+    <h1 class="ms-3">WELCOME <%= name %>
+    </h1>
+    <div name="actions" class="d-flex flex-column w-50">
+        <% if(role !=="admin" ){ %>
+            <% if(msg){ %>
+                <% if(msg=="1" ) {%>
+                    <div class="alert alert-success m-3" role="alert">
+                        Successfully deleted your complaints!
+                    </div>
+                    <% } %>
+                        <% if(msg=="2" ) {%>
+                            <div class="alert alert-success m-3" role="alert">
+                                Successfully added your complaint and admin will check your complaints!
+                            </div>
+                            <% } %>
+                                <% if(msg=="2.2" ) {%>
+                                    <div class="alert alert-danger m-3" role="alert">
+                                        Your complain more than 550 character!
+                                    </div>
+                                    <% } %>
+                                        <% if(msg=="2.3" ) {%>
+                                            <div class="alert alert-danger m-3" role="alert">
+                                                Word 'fetch' and 'XMLHttp' not allowed with several symbols '",.:`.
+                                            </div>
+                                            <% } %>
+                                                <% } %>
+                                                    <div class="d-flex gap-2">
+                                                        <a href="/complain/<%= name %>"
+                                                            class="m-3 btn btn-secondary">Your Complains</a>
+                                                        <a href="/complain/<%= name %>?action=clear"
+                                                            class="m-3 btn btn-danger">Clear Your Complains</a>
+                                                    </div>
+    </div>
+
+    <form action="/complain" method="post">
+        <div style="width: 50%;" class="ms-3">
+            <div class="mb-3">
+                <label for="exampleFormControlTextarea1" class="form-label">complain to admin!</label>
+                <textarea class="form-control" id="complain" name="complain" rows="3"></textarea>
+            </div>
+            <!-- <input type="text" name="complains"> -->
+            <button type="submit" class="btn btn-primary">submit</button>
+        </div>
+    </form>
+    <% } %>
+</body>
+
+</html>

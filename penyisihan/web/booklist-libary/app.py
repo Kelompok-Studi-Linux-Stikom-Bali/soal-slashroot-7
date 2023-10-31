@@ -16,7 +16,7 @@ def home():
 def login():
     payload = request.form
     if(str(payload.get('username')) == 'user' and str(payload.get('password')) == 'user123'):
-        return jwt.encode({'admin': False},key,algorithm='HS256')
+        return jwt.encode({'admin': False},key,algorithm='RS256')
     return "invalid credentials"
 
 @app.route("/api/book/list")
@@ -24,7 +24,7 @@ def bookList():
     result = []
     token = request.headers.get('Authorization')
     try:
-        decodeData = jwt.decode(jwt=token,key=key,algorithms=["HS256"])
+        decodeData = jwt.decode(jwt=token,key=key,algorithms=["RS256"])
         booklistData = open('booklist.json','r')
         flag = open('flag.json','r')
         result.extend(json.loads(booklistData.read()))

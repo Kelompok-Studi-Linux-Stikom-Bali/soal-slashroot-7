@@ -1,0 +1,25 @@
+version: '1'
+
+services:
+  chall1:
+    build: 
+      context: ./login-for-admin
+    image: login-for-admin
+    container_name: slashroot7-login-for-admin
+    restart: always
+    ports:
+      - 22301:80
+  
+    
+  mysql-db:
+    image: mysql:latest
+    restart: always
+    container_name: mysql
+    environment:
+      MYSQL_DATABASE: 'ctf_4'
+      MYSQL_ROOT_USER: 'root'
+      MYSQL_ROOT_PASSWORD: '291dcc71b79731f88b65cee99a9b5bf3edec2d9755e22af2746bf1784633a7b0338c2573167e4f7997f0c488a04d74c4e650'
+    volumes:
+      - ./ctf_4.sql:/docker-entrypoint-initdb.d/01-init.sql
+    ports:
+      - 11111:3306

@@ -65,5 +65,8 @@ This repository contains the problemset for SlashRoot 7 2023.
 | [`Cryver`](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/final/reverse/cryver) | Reverse        | [Indra Yana](https://github.com/indrayyana) |
 | [`Slash Card`](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/final/reverse/slash_card) | Reverse        | [Indra Yana](https://github.com/indrayyana) |
 | [`GG Gaming`](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/final/OSINT/gg_gaming) | OSINT        | [Indra Yana](https://github.com/indrayyana) |
-| [`Johan Weissmann Tower Defense`](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/final/Joy/Johan%20Weissmann%20Tower%20Defense)                                                                                                       | JOY | [Ekajaya](https://github.com/ekajaya740)|
+| [`Johan Weissmann Tower Defense`](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/final/Joy/Johan%20Weissmann%20Tower%20Defense)         | JOY | [Ekajaya](https://github.com/ekajaya740)|
+| [`Calculator`](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/final/web/calculator) | web | [AnantaWeda](https://github.com/anantaweda)|
+| [`Login For Admin`](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/final/web/login_for_admin) | web | [AnantaWeda](https://github.com/anantaweda)|
+[`complain`](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/final/web/complain) | web | [Ganes556](https://github.com/Ganes556)|
 | `Coming soon...`                                                                                                        | Coming soon... | [Adi](https://github.com/adi-winters)       |

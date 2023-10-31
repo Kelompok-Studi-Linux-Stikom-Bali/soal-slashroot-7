@@ -1,0 +1,4 @@
+<Files "this_is_the_flag_for_slashroot.txt">  
+  Order Allow,Deny
+  Deny from all
+</Files>

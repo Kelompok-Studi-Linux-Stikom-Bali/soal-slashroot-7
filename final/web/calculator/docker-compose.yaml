@@ -1,0 +1,8 @@
+version: '1'
+services:
+    calculator:
+      image: calculator
+      build: .
+      restart: unless-stopped
+      ports:
+        - "8001:80"
