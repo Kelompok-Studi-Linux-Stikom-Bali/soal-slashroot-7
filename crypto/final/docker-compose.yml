@@ -1,0 +1,22 @@
+version: '3.8'
+services:
+  asdce:
+    build:
+      context: .
+    image: crypto
+    container_name: slashroot7-asdce
+    entrypoint: socat tcp-listen:8000,reuseaddr,fork exec:/home/app/chall.py
+    volumes:
+      - './asdce:/home/app'
+    ports:
+      - '1111:8000'
+  ezguess:
+    build:
+      context: .
+    image: crypto
+    container_name: slashroot7-ezguess
+    entrypoint: socat tcp-listen:8000,reuseaddr,fork exec:/home/app/chall.py
+    volumes:
+      - './ezGuess:/home/app'
+    ports:
+      - '1121:8000'
