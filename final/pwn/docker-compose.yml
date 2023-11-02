@@ -11,7 +11,7 @@ services:
     ports:
       - '2301:8000'
       
-   baru-belajar-ngab:
+  baru-belajar-ngab:
     build:
       context: .
     image: pwn
@@ -22,7 +22,7 @@ services:
     ports:
       - '2302:8000'
       
-   short:
+  short:
     build:
       context: .
     image: pwn
