@@ -67,8 +67,9 @@ This repository contains the problemset for SlashRoot 7 2023.
 | [`Dragon's Lair 2`](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/final/reverse/dragons_lair2) | Reverse        | [Indra Yana](https://github.com/indrayyana) |
 | [`GG Gaming`](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/final/OSINT/gg_gaming) | OSINT        | [Indra Yana](https://github.com/indrayyana) |
 | [`JONES and The Unknown Treasure`](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/final/OSINT/JONES_and_The_Unknown_Treasure) | OSINT        | [Wrinda](https://github.com/WrindaWaneswari) |
-| [`Johan Weissmann Tower Defense`](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/final/Joy/Johan%20Weissmann%20Tower%20Defense)         | JOY | [Ekajaya](https://github.com/ekajaya740)|
-| [`Calculator`](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/final/web/calculator) | web | [AnantaWeda](https://github.com/anantaweda)|
+| [`Johan Weissmann Tower Defense`](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/final/Joy/Johan-Weissmann-Tower-Defense)         | JOY | [Ekajaya](https://github.com/ekajaya740)|
+| [`Calculator`](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/final/web/calculator) | Web | [AnantaWeda](https://github.com/anantaweda)|
 | [`Login For Admin`](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/final/web/login_for_admin) | web | [AnantaWeda](https://github.com/anantaweda)|
-[`complain`](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/final/web/complain) | web | [Ganes556](https://github.com/Ganes556)|
+| [`complain`](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/final/web/complain) | Web | [Ganes](https://github.com/Ganes556)|
+| [`baru belajar ngab`](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/final/pwn/baru-belajar-ngab) | PWN | [Ekajaya](https://github.com/Ganes556)|
 | `Coming soon...`                                                                                                        | Coming soon... | [Adi](https://github.com/adi-winters)       |
