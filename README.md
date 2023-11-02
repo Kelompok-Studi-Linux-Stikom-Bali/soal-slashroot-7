@@ -64,7 +64,9 @@ This repository contains the problemset for SlashRoot 7 2023.
 | ----------------------------------------------------------------------------------------------------------------------- | -------------- | ------------------------------------------- |
 | [`Cryver`](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/final/reverse/cryver) | Reverse        | [Indra Yana](https://github.com/indrayyana) |
 | [`Slash Card`](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/final/reverse/slash_card) | Reverse        | [Indra Yana](https://github.com/indrayyana) |
+| [`Dragon's Lair 2`](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/final/reverse/dragons_lair2) | Reverse        | [Indra Yana](https://github.com/indrayyana) |
 | [`GG Gaming`](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/final/OSINT/gg_gaming) | OSINT        | [Indra Yana](https://github.com/indrayyana) |
+| [`JONES and The Unknown Treasure`](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/final/OSINT/JONES_and_The_Unknown_Treasure) | OSINT        | [Wrinda](https://github.com/WrindaWaneswari) |
 | [`Johan Weissmann Tower Defense`](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/final/Joy/Johan%20Weissmann%20Tower%20Defense)         | JOY | [Ekajaya](https://github.com/ekajaya740)|
 | [`Calculator`](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/final/web/calculator) | web | [AnantaWeda](https://github.com/anantaweda)|
 | [`Login For Admin`](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/final/web/login_for_admin) | web | [AnantaWeda](https://github.com/anantaweda)|
