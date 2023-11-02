@@ -1,0 +1,18 @@
+Hii there! Let me introduce myself, I am Agent Daniel.
+I need your help asap.
+Agent Jack is an investigator working on a cybercrime case. Unfortunately, Agent Jack has been declared missing since this morning.
+However, before Agent Jack disappeared, he gave me this note.
+
+"
+Agent Daniel, 
+
+I've found a file that could serve as strong evidence in the case we're working on. 
+But, I'm sorry, this file is encrypted with an algorithm that I'm not familiar with.
+I managed to find fragments of the key for decryption. 
+I hope what I've found will be useful for you.
+
+Jack
+"
+
+I believe you can help me.
+Please, help me... :(

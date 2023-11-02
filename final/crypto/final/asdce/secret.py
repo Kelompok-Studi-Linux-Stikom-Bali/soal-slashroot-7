@@ -1,0 +1,1 @@
+flag = 'slashroot7{huuffft_bimgung_gimana_cara_bua7_chall_susah_pesertanya_pada_jaog_semu4}'
