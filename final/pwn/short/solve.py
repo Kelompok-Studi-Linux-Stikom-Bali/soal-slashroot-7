@@ -17,9 +17,11 @@ exe = './chall'
 
 def start(argv=[], *a, **kw):
     '''Start the exploit against the target.'''
-    if args.GDB:
+    if args.GDB:  # Set GDBscript below
         return gdb.debug([exe] + argv, gdbscript=gdbscript, *a, **kw)
-    else:
+    elif args.REMOTE:  #('server', 'port')
+        return remote(sys.argv[1], sys.argv[2], *a, **kw)
+    else:  # Run locally
         return process([exe] + argv, *a, **kw)
 
 # Specify your GDB script here for debugging
