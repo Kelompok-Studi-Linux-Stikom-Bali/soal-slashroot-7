@@ -1,1 +1,0 @@
-flag = b'slashroot7{congrats_Y0u_ar3_Aestethic!!!}'
