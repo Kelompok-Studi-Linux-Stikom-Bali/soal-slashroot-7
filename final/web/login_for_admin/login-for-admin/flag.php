@@ -6,7 +6,7 @@
     if(isset($_SESSION['user'])){
         $user = stripslashes($_SESSION['user']);
         $query = $connect->query("SELECT count(id_admin) as ttl from admin where role = 'admin' && username = '$user'");
-        $flag = 'Admin only can see the flag';
+        $flag = 'You username is not admin';
         
         if($query->fetch_array()['ttl']){
             $flag = 'slashroot7{w0w_n0w_y0u_Are_admIn}';
