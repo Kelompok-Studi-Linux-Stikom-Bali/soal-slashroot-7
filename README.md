@@ -35,28 +35,14 @@ This repository contains the problemset for SlashRoot 7 2023.
 | [`sheep`](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/penyisihan/pwn/sheep)                         | PWN      | [Ibnu](https://github.com/ibnudz)                |
 | [`Galaxy Ikan Bilis`](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/penyisihan/JOY/Galaxy-Ikan-Bilis) | Joy      | [Ekajaya](https://github.com/ekajaya740)         |
 
-## List Port Quals
-
-| Name                                                                                                                                   | Category | Port  | Url                            |
-| -------------------------------------------------------------------------------------------------------------------------------------- | -------- | ----- | ------------------------------ |
-| [`Summary`](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/penyisihan/crypto/summary)                | Crypto   | 1011  | `nc 103.152.242.228 1011`      |
-| [`eeee`](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/penyisihan/crypto/eeee)                      | Crypto   | 1021  | `nc 103.152.242.228 1021`      |
-| [`aestethic`](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/penyisihan/crypto/aestethic)            | Crypto   | 1031  | `nc 103.152.242.228 1031`      |
-| [`Lazy`](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/penyisihan/reverse/lazy)                     | Reverse  | 2021  | `nc 103.152.242.228 2021`      |
-| [`Dragon's Lair`](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/penyisihan/reverse/dragons_lair)    | Reverse  | 2022  | `nc 103.152.242.228 2022`      |
-| [`Mass Sender`](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/penyisihan/pwn/sender)                | PWN      | 30011 | `nc 103.152.242.228 30011`     |
-| [`Don't Forget Saved`](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/penyisihan/pwn/saved)          | PWN      | 30012 | `nc 103.152.242.228 30012`     |
-| [`sheep`](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/penyisihan/pwn/sheep)                       | PWN      | 30013 | `nc 103.152.242.228 30013`     |
-| [`sandbox`](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/penyisihan/pwn/sandbox)                   | PWN      | 30014 | `nc 103.152.242.228 30014`     |
-| [`Verylight`](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/penyisihan/web/verylight)               | Web      | 20011 | `http://103.152.242.228:20011` |
-| [`LotFeTT`](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/penyisihan/web/lotfett)                   | Web      | 20012 | `http://103.152.242.228:20012` |
-| [`Booklist Library`](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/penyisihan/web/booklist-libary)  | Web      | 20013 | `http://103.152.242.228:20013` |
-| [`Give Me Feedback`](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/penyisihan/web/give-me-feedback) | Web      | 20014 | `http://103.152.242.228:20014` |
-
 ## Points Recap Qualifier
 
 | [Points Recap Qualifier Download](assets/files/Rekap_Point_Slashroot_CTF_Quals.xlsx) |
 | ------------------------------------------------------------------------------------ |
+
+## Final Scoreboard
+<img src="assets/images/Top_10.png">
+<img src="assets/images/Scoreboard.jpg">
 
 ## List of Problems Final
 
