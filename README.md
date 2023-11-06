@@ -52,10 +52,17 @@ This repository contains the problemset for SlashRoot 7 2023.
 | [`Slash Card`](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/final/reverse/slash_card) | Reverse        | [Indra Yana](https://github.com/indrayyana) |
 | [`Dragon's Lair 2`](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/final/reverse/dragons_lair2) | Reverse        | [Indra Yana](https://github.com/indrayyana) |
 | [`GG Gaming`](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/final/OSINT/gg_gaming) | OSINT        | [Indra Yana](https://github.com/indrayyana) |
+| [`Belajar Pemrograman`](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/final/OSINT/belajar_pemrograman) | OSINT        | [Krisna](https://github.com/wiranatakrisna) |
 | [`JONES and The Unknown Treasure`](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/final/OSINT/JONES_and_The_Unknown_Treasure) | OSINT        | [Wrinda](https://github.com/WrindaWaneswari) |
 | [`Johan Weissmann Tower Defense`](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/final/Joy/Johan-Weissmann-Tower-Defense)         | JOY | [Ekajaya](https://github.com/ekajaya740)|
 | [`Calculator`](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/final/web/calculator) | Web | [AnantaWeda](https://github.com/anantaweda)|
-| [`Login For Admin`](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/final/web/login_for_admin) | web | [AnantaWeda](https://github.com/anantaweda)|
+| [`Login For Admin`](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/final/web/login_for_admin) | Web | [AnantaWeda](https://github.com/anantaweda)|
 | [`complain`](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/final/web/complain) | Web | [Ganes](https://github.com/Ganes556)|
-| [`baru belajar ngab`](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/final/pwn/baru-belajar-ngab) | PWN | [Ekajaya](https://github.com/Ganes556)|
-| `Coming soon...`                                                                                                        | Coming soon... | [Adi](https://github.com/adi-winters)       |
+| [`baru belajar ngab`](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/final/pwn/baru-belajar-ngab) | PWN | [Ekajaya](https://github.com/ekajaya740)|
+| [`shelly`](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/final/pwn/shelly) | PWN | [MockingJay](https://github.com/MockingjayIndra)|
+| [`Short`](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/final/pwn/short) | PWN | [Ibnu](https://github.com/ibnudz)|
+| [`ez guess`](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/final/crypto/ezGuess) | Crypto   | [Anehman](https://github.com/?) |
+| [`asdce`](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/final/crypto/asdce) | Crypto   | [MockingJay](https://github.com/MockingjayIndra) |
+| [`JackD`](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/final/crypto/JackD) | Crypto   | [MockingJay](https://github.com/MockingjayIndra) |
+| [`QAES`](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/final/crypto/JackD) | Crypto   | [Anehman](https://github.com/?) |
+| [`Coming Soon`](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/final/forensics/?) | Forensic | [Krisna](https://github.com/wiranatakrisna) |
