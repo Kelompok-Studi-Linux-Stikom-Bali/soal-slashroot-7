@@ -1,0 +1,6 @@
+__pycache__
+.bash_history
+.cache
+.env
+.vscode
+node_modules
