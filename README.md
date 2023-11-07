@@ -61,8 +61,14 @@ This repository contains the problemset for SlashRoot 7 2023.
 | [`baru belajar ngab`](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/final/pwn/baru-belajar-ngab) | PWN | [Ekajaya](https://github.com/ekajaya740)|
 | [`shelly`](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/final/pwn/shelly) | PWN | [MockingJay](https://github.com/MockingjayIndra)|
 | [`Short`](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/final/pwn/short) | PWN | [Ibnu](https://github.com/ibnudz)|
-| [`ez guess`](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/final/crypto/ezGuess) | Crypto   | [Anehman](https://github.com/?) |
+| [`ez guess`](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/final/crypto/ezGuess) | Crypto   | [Anehman](https://github.com/anehman) |
 | [`asdce`](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/final/crypto/asdce) | Crypto   | [MockingJay](https://github.com/MockingjayIndra) |
 | [`JackD`](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/final/crypto/JackD) | Crypto   | [MockingJay](https://github.com/MockingjayIndra) |
-| [`QAES`](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/final/crypto/JackD) | Crypto   | [Anehman](https://github.com/?) |
-| [`Coming Soon`](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/final/forensics/?) | Forensic | [Krisna](https://github.com/wiranatakrisna) |
+| [`QAES`](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/final/crypto/?) | Crypto   | [Anehman](https://github.com/anehman) |
+| [`Coming Soon`](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/final/forensic/?) | Forensic | [Ibnu](https://github.com/ibnudz) |
+| [`Coming Soon`](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/final/forensic/?) | Forensic | [Hari](https://github.com/gedehari) |
+
+## Points Recap Final
+
+| [Points Recap Final Download](assets/files/Rekap_Point_Slashroot_CTF_Final.xlsx) |
+| -------------------------------------------------------------------------------- |
