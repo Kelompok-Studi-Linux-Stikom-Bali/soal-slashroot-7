@@ -20,3 +20,13 @@ services:
       - './ezGuess:/home/app'
     ports:
       - '1121:8000'
+  qaes:
+    build:
+      context: .
+    image: crypto
+    container_name: slashroot7-qaes
+    entrypoint: socat tcp-listen:8000,reuseaddr,fork exec:/home/app/chall.py
+    volumes:
+      - './QAES:/home/app'
+    ports:
+      - '1131:8000'
