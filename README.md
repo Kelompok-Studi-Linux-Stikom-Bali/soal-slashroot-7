@@ -65,8 +65,8 @@ This repository contains the problemset for SlashRoot 7 2023.
 | [`asdce`](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/final/crypto/asdce) | Crypto   | [MockingJay](https://github.com/MockingjayIndra) |
 | [`JackD`](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/final/crypto/JackD) | Crypto   | [MockingJay](https://github.com/MockingjayIndra) |
 | [`QAES`](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/final/crypto/QAES) | Crypto   | [Anehman](https://github.com/anehman) |
+| [`monke`](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/final/forensic/monke) | Forensic | [Hari](https://github.com/gedehari) |
 <!-- | [`Peww?`](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/final/forensic/?) | Forensic | [Ibnu](https://github.com/ibnudz) | -->
-<!-- | [`monke`](https://github.com/Kelompok-Studi-Linux-Stikom-Bali/soal-slashroot-7/tree/master/final/forensic/?) | Forensic | [Hari](https://github.com/gedehari) | -->
 
 ## Points Recap Final
 
